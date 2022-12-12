@@ -1,3 +1,4 @@
+#This program calculates letter frequency in a text file.
 fname=input("Enter a file name: ")
 fhand=open(fname)
 letterdict=dict.fromkeys(['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'],0)

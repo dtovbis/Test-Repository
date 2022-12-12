@@ -1,3 +1,4 @@
+#This script returns the sender who sent the most emails.
 fname=input("Enter a file name: ")
 fhand=open(fname)
 emaildict= dict()

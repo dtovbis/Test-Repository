@@ -1,3 +1,4 @@
+#This script prints lines that start with from, as well as giving the number of lines that start with from in a text file.
 fname=input("Enter file: ")
 fhand=open(fname)
 emaillist=[]

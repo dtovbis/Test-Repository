@@ -1,3 +1,5 @@
+#This function calculates the salary given a number of hours worked and the rate of pay.
+#It gives time and a half for >40 hours a week.
 def payrate(hrs,rt):
     try:
         if hrs > 40:

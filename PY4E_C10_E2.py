@@ -1,3 +1,4 @@
+#This program prints a sorted list of hours at which emails were received
 fname=input("Enter a file name: ")
 fhand=open(fname)
 timedict=dict()

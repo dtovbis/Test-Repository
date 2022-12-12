@@ -1,3 +1,5 @@
+#This script returns a dictionary of senders and the number of emails they sent.
+# If Splitdomains = Y, it groups by domain instead.
 fname=input("Enter a file name: ")
 isdomain=input("Split domains Y/N")
 fhand=open(fname)

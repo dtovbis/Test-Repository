@@ -1,3 +1,4 @@
+#This script returns the average of spam confidence for a list of emails.
 fname=input('Enter a file name:')
 if fname == 'na na boo boo':
     print('NA NA BOO BOO TO YOU - You have been punk\'d!')

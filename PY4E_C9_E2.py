@@ -1,3 +1,4 @@
+#This file returns a Dicitonary of dates when emails were sent.
 fname=input("Enter a file name: ")
 fhand=open(fname)
 emaildict= dict()

@@ -1,3 +1,4 @@
+#This script calculates the average of a list of numbers.
 numarray=[]
 i=0
 while True:

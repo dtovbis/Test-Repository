@@ -1,3 +1,4 @@
+#This returns if a particular word is found in a text file
 fhand=open('words.txt')
 merweb= {}
 for line in fhand:
